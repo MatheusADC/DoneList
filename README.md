@@ -1,10 +1,10 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="Ícone de descrição" width="28"> Descrição
 Um site que exibe tarefas pendentes e concluídas.
 
-# <sub><img src="https://img.icons8.com/?size=100&id=L3V7IDcwKTn2&format=png&color=000000" alt="Ícone de tarefa" width="34"></sub> Página
+# <sub><img src="https://img.icons8.com/?size=100&id=L3V7IDcwKTn2&format=png&color=000000" alt="Ícone de tarefa" width="36"></sub> Página
 ![image](https://github.com/user-attachments/assets/de891fa4-a392-4fff-81cb-6f3f9ed354b2)
 
-# <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Ícone da AWS" width="34"> Configuração do AWS
+# <sub><img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Ícone da AWS" width="38"></sub> Configuração do AWS
 ### Instalação do Apache, do PHP e inicialização do serviço
 ```
 sudo yum update -y
